@@ -5,9 +5,9 @@
 Create a .env file in your root directory with the following variables
 
 ```bash
-# Insert discord token
+# Discord token
 DISCORD_TOKEN:
 
-# Instert API token from Svenska spel
+# Svenska spel API token
 API_TOKEN:
 ```
